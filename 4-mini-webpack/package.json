@@ -1,0 +1,15 @@
+{
+  "name": "4-mini-webpack",
+  "scripts": {
+    "build": "node ./scripts/build"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.17.5",
+    "@babel/parser": "^7.17.3",
+    "@babel/preset-env": "^7.16.11",
+    "@babel/traverse": "^7.17.3"
+  }
+}
