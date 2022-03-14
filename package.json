@@ -1,0 +1,27 @@
+{
+  "name": "webpack",
+  "version": "1.0.0",
+  "description": "webpack learning examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wowohuai/webpack-learn.git"
+  },
+  "keywords": [
+    "webpack",
+    "example"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wowohuai/webpack-learn/issues"
+  },
+  "homepage": "https://github.com/wowohuai/webpack-learn#readme",
+  "devDependencies": {
+    "webpack": "^5.70.0",
+    "webpack-cli": "^4.9.2"
+  }
+}

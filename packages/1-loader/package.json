@@ -10,8 +10,9 @@
     "@babel/core": "^7.17.5",
     "@babel/preset-env": "^7.16.11",
     "loader-utils": "^3.2.0",
-    "schema-utils": "^4.0.0",
-    "webpack": "^5.69.1",
-    "webpack-cli": "^4.9.2"
+    "schema-utils": "^4.0.0"
+  },
+  "dependencies": {
+    "utils": "workspace:^1.0.0"
   }
 }
